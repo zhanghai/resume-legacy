@@ -2,7 +2,7 @@
 
 Zeno Zeng's resume in Markdown.
 
-This is based on David Hamp-Gonsalves's theme.
+This is based on [xuxiaodong's resume theme](https://github.com/xuxiaodong/resume).
 
 ## build
 
