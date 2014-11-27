@@ -104,7 +104,7 @@
     A php script to generate changelog via gitlab api.
 
 **[gimp-script](https://github.com/zenozeng/gimp-script)**
-    我用 Scheme 写的一些小滤镜。
+    我用 Scheme 写的一些杂七杂八的小滤镜。
 
 **[font-detect.js](https://github.com/zenozeng/font-detect.js)**
     Detect font without flash, simply using javascript & @font-face
