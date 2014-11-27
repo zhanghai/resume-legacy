@@ -49,7 +49,7 @@
     给 ATA 做过一个从 milestone 生成 changelog 的小工具。
     **Tags:** Kissy, Phantom, Chrome Extension, D3, SVG, Canvas, Data Visualization, PHP
 
-**熵功场科技（杭州）有限公司** *前端工程师* __2014.11__
+**熵功场科技（杭州）有限公司** *前端工程师* __2014.11 ~ 现在__
     负责后台前端页面的开发。
     **Tags:** Myth, Backbone, Purecss
 
@@ -57,8 +57,14 @@
 
 ### 项目
 
-**浙江大学国际设计创新班（IDI）主页** *前端开发*
+**浙江大学国际设计创新班（IDI）主站** *前端工程师* __2013.10 ~ 2013.12__
+    IDI 主站的前端开发。
     **Tags:** Wordpress, Single Page APP
+
+**Cocolour** *算法、前端及后端* __2014.03 ~ 现在__
+    [https://github.com/zenozeng/cocolour](https://github.com/zenozeng/cocolour)
+    由图像提取主题色，产生配色，然后基于用户行为进行机器学习调整推荐。项目进行中。
+    **Tags:** K-Means, CIE, Genetic algorithms, BP 神经网络
 
 ------
 
@@ -84,6 +90,9 @@
 
 **[colors-clustering](https://github.com/zenozeng/colors-clustering)**
     Colors clustering based on K-means algorithm & CIE76
+
+**[gene-pool](https://github.com/zenozeng/gene-pool)**
+    Genetic algorithms in a given gene pool.
 
 **[dom-screenshot](https://github.com/zenozeng/dom-screenshot)**
     Get screenshot of dom via SVG foreignObject.
