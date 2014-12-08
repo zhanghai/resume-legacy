@@ -42,7 +42,7 @@
     负责 QSC Notice（校内活动发布平台）的前端开发。
     负责浙江大学新生手册（2013）的前端开发。
     负责过一段时间的前端内训。
-    **Tags:** PHP, Javascript, HTML5, Cache, RSA, Single Page APP
+    **Tags:** PHP, Javascript, HTML5, Cache, RSA, SPA
 
 **淘宝 UED** *实习前端工程师* __2014.07 ~ 2014.08__
     前端基础架构数据组。给 uData 和有数做一些奇怪的东西。
@@ -51,7 +51,7 @@
 
 **熵功场科技（杭州）有限公司** *前端工程师* __2014.11 ~ 现在__
     负责后台前端页面的开发。
-    **Tags:** Myth, Backbone, Purecss
+    **Tags:** Myth, Backbone, Purecss, SPA
 
 ------
 
@@ -59,7 +59,7 @@
 
 **浙江大学国际设计创新班（IDI）主站** *前端工程师* __2013.10 ~ 2013.12__
     IDI 主站的前端开发。
-    **Tags:** Wordpress, Single Page APP
+    **Tags:** Wordpress, SPA
 
 **Cocolour** *算法、前端及后端* __2014.03 ~ 现在__
     [https://github.com/zenozeng/cocolour](https://github.com/zenozeng/cocolour)
