@@ -49,8 +49,8 @@
     给 ATA 做过一个从 milestone 生成 changelog 的小工具。
     **Tags:** Kissy, Phantom, Chrome Extension, D3, SVG, Canvas, Data Visualization, PHP
 
-**熵功场科技（杭州）有限公司** *前端工程师* __2014.11 ~ 现在__
-    负责后台前端页面的开发。
+**熵功场科技（杭州）有限公司** *前端工程师* __2014.11 ~ 2014.12__
+    Catch 摄影师后台管理系统 Web v1.0
     **Tags:** Myth, Backbone, Purecss, SPA
 
 ------
