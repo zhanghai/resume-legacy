@@ -47,11 +47,11 @@
 **淘宝 UED** *实习前端工程师* __2014.07 ~ 2014.08__
     前端基础架构数据组。给 uData 和有数做一些奇怪的东西。
     给 ATA 做过一个从 milestone 生成 changelog 的小工具。
-    **Tags:** Kissy, Phantom, Chrome Extension, D3, SVG, Canvas, Data Visualization, PHP
+    **Tags:** Kissy, Phantom, Chrome Extension, D3, SVG, Canvas, Data Visualization, PHP, gulp
 
 **熵功场科技（杭州）有限公司** *前端工程师* __2014.11 ~ 2014.12__
     Catch 摄影师后台管理系统 Web v1.0
-    **Tags:** Myth, Backbone, Purecss, SPA
+    **Tags:** Myth, Backbone, Purecss, SPA, bower, gulp, browserify
 
 ------
 
@@ -70,52 +70,52 @@
 
 ### 代码
 
-**[fonts.css](https://github.com/zenozeng/fonts.css)**
+**[fonts.css](https://github.com/zenozeng/fonts.css)** (CSS)
     跨平台 CSS 中文字体解决方案
 
-**[beads](https://github.com/zenozeng/beads)**
+**[beads](https://github.com/zenozeng/beads)** (JavaScript)
     General purpose middleware layer for nodejs using generater.
 
-**[version-storage](https://github.com/zenozeng/version-storage)**
+**[version-storage](https://github.com/zenozeng/version-storage)** (CoffeeScript)
     localStorage like, fileSystem/localStorage based storage with upgrade
 
-**[interval.js](https://github.com/zenozeng/interval.js)**
+**[interval.js](https://github.com/zenozeng/interval.js)** (JavaScript)
     A simple interval manager with lifetime / start / stop / pause / resume / restart.
 
-**[fly-branch-chart](https://github.com/zenozeng/fly-branch-chart)**
+**[fly-branch-chart](https://github.com/zenozeng/fly-branch-chart)** (JavaScript)
     Fly branch chart (built for uData).
 
-**[funnel-chart](https://github.com/zenozeng/funnel-chart)**
+**[funnel-chart](https://github.com/zenozeng/funnel-chart)** (JavaScript)
     FunnelChart是一个基于 Kissy 和 SVG 的漏斗图组件。
 
-**[colors-clustering](https://github.com/zenozeng/colors-clustering)**
+**[colors-clustering](https://github.com/zenozeng/colors-clustering)** (CoffeeScript)
     Colors clustering based on K-means algorithm & CIE76
 
-**[gene-pool](https://github.com/zenozeng/gene-pool)**
+**[gene-pool](https://github.com/zenozeng/gene-pool)** (JavaScript)
     Genetic algorithms in a given gene pool.
 
-**[dom-screenshot](https://github.com/zenozeng/dom-screenshot)**
+**[dom-screenshot](https://github.com/zenozeng/dom-screenshot)** (JavaScript)
     Get screenshot of dom via SVG foreignObject.
 
-**[ntap.coffee](https://github.com/zenozeng/ntap.coffee)**
+**[ntap.coffee](https://github.com/zenozeng/ntap.coffee)** (CoffeeScript)
     Bind events on nth tap (using setTimeout).
 
-**[github-changelog](https://github.com/zenozeng/gitlab-changelog)**
+**[github-changelog](https://github.com/zenozeng/gitlab-changelog)** (PHP)
     A php script to generate changelog via gitlab api.
 
-**[gimp-script](https://github.com/zenozeng/gimp-script)**
+**[gimp-script](https://github.com/zenozeng/gimp-script)** (Scheme)
     我用 Scheme 写的一些杂七杂八的小滤镜。
 
-**[font-detect.js](https://github.com/zenozeng/font-detect.js)**
+**[font-detect.js](https://github.com/zenozeng/font-detect.js)** (CoffeeScript)
     Detect font without flash, simply using javascript & @font-face
 
-**[yafolding.el](https://github.com/zenozeng/yafolding.el)**
+**[yafolding.el](https://github.com/zenozeng/yafolding.el)** (Emacs Lisp)
     Yet another folding extension for Emacs. Folding code blocks based on indentation.
 
-**[css-eldoc](https://github.com/zenozeng/css-eldoc)**
+**[css-eldoc](https://github.com/zenozeng/css-eldoc)** (Emacs Lisp)
     CSS Doc for Emacs using eldoc framework.
 
-**[php-eldoc](https://github.com/zenozeng/php-eldoc)**
+**[php-eldoc](https://github.com/zenozeng/php-eldoc)** (Emacs Lisp)
     PHP Doc for Emacs using eldoc framework.
 
 ------
