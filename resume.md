@@ -11,9 +11,9 @@
 
 ### 技术
 
-1. Javascript
+1. JavaScript
 
-1. Coffee Script
+1. CoffeeScript
 
 1. Node.JS
 
@@ -117,5 +117,17 @@
 
 **[php-eldoc](https://github.com/zenozeng/php-eldoc)** (Emacs Lisp)
     PHP Doc for Emacs using eldoc framework.
+
+**[zjunet](https://github.com/QSCTech/zjunet)** (Shell)
+    Command Line Scripts for ZJU (VPN / WLAN / DNS)
+
+------
+
+## Repositories contributed to
+
+**[moment](https://github.com/moment/moment)** (JavaScript)
+    One of the maintainers of [locale/zh-cn.js](https://github.com/moment/moment/blob/develop/locale/zh-cn.js).
+    Issues: https://github.com/moment/moment/issues?q=mentions%3Azenozeng
+    Commits: https://github.com/moment/moment/commits/develop?author=zenozeng
 
 ------

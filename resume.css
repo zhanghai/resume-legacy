@@ -49,6 +49,10 @@ blockquote a:hover {
 }
 
 a {
+    color: #333;
+}
+
+strong a {
   color: #d22042;
 }
 
