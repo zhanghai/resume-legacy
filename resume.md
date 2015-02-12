@@ -73,6 +73,9 @@
 **[fonts.css](https://github.com/zenozeng/fonts.css)** (CSS) (270+ stars)
     跨平台 CSS 中文字体解决方案
 
+**[color-hash](https://github.com/zenozeng/color-hash)** (JavaScript)
+    Generate color based on the given string (using HSL color space and BKDRHash).
+
 **[beads](https://github.com/zenozeng/beads)** (JavaScript)
     General purpose middleware layer for nodejs using generater.
 
