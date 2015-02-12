@@ -70,7 +70,7 @@
 
 ### 代码
 
-**[fonts.css](https://github.com/zenozeng/fonts.css)** (CSS) (270+ stars)
+**[fonts.css](https://github.com/zenozeng/fonts.css)** (CSS) (300 stars)
     跨平台 CSS 中文字体解决方案
 
 **[color-hash](https://github.com/zenozeng/color-hash)** (JavaScript)
@@ -112,7 +112,7 @@
 **[font-detect.js](https://github.com/zenozeng/font-detect.js)** (CoffeeScript)
     Detect font without flash, simply using javascript & @font-face
 
-**[yafolding.el](https://github.com/zenozeng/yafolding.el)** (Emacs Lisp) (30 stars)
+**[yafolding.el](https://github.com/zenozeng/yafolding.el)** (Emacs Lisp) (30+ stars)
     Yet another folding extension for Emacs. Folding code blocks based on indentation.
 
 **[css-eldoc](https://github.com/zenozeng/css-eldoc)** (Emacs Lisp)
