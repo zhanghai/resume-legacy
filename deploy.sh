@@ -5,7 +5,7 @@ set -e
 # Ensure and cd to .deploy
 if [[ ! -d .deploy ]]; then
     if [[ -e .deploy ]]; then
-        echo 'ERROR: .deploy is not a directory'
+        echo "ERROR: .deploy is not a directory"
         exit 1
     fi
     mkdir .deploy
