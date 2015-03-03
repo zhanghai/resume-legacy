@@ -1,6 +1,8 @@
 #!/bin/bash
+
 set -e
-./build.sh
+
+# Ensure and cd to .deploy
 if [[ ! -d .deploy ]]; then
     if [[ -e .deploy ]]; then
         echo 'ERROR: .deploy is not a directory'
@@ -11,10 +13,14 @@ if [[ ! -d .deploy ]]; then
     git init
     git symbolic-ref HEAD refs/heads/gh-pages
     git remote add origin git@github.com:DreaminginCodeZH/resume.zhanghai.me.git
-else
-    cd .deploy
+    cd ..
 fi
-cp ../CNAME ../favicon.png ../index.html ../404.html ./
+
+# Build
+./build.sh
+
+# Deploy
+cd .deploy
 git add -A
 git commit -m "Resume updated: $(date -R)"
 git push -u origin gh-pages
