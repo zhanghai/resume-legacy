@@ -5,7 +5,6 @@
 > [blog.zhanghai.me](http://blog.zhanghai.me)
 > [github.com/DreaminginCodeZH](https://github.com/DreaminginCodeZH)
 > [dreaming.in.code.zh@gmail.com](mailto:dreaming.in.code.zh@gmail.com)
-> (+86) 189-7092-0012
 
 ------
 
