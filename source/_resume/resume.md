@@ -12,13 +12,13 @@
 
 1. Java
 
-2. Android 开发
+2. Android
 
 3. C/C++
 
 4. GNU/Linux
 
-5. Shell 脚本
+5. Shell
 
 6. Git
 
@@ -49,11 +49,11 @@
 **[SeekBarPreference](https://github.com/DreaminginCodeZH/SeekBarPreference)** (Android)
     显示 SeekBar 对话框的 Preference 实现。
 
-**[zju-net-utils](https://github.com/DreaminginCodeZH/zju-net-utils)** (Shell)
-    另一个浙江大学无线网络和 VPN 脚本。
-
 **[xkeymacs](https://github.com/DreaminginCodeZH/xkeymacs)** (C)
     基于 X11 的 Emacs 风格键盘宏实现。
+
+**[zju-net-utils](https://github.com/DreaminginCodeZH/zju-net-utils)** (Shell)
+    另一个浙江大学无线网络和 VPN 脚本。
 
 **[ZJUWLANAutoLogin](https://github.com/DreaminginCodeZH/ZJUWLANAutoLogin)** (JavaScript)
     简单的 Chrome 插件，当页面跳转至 ZJUWLAN 登录界面时自动模拟点击按钮。
