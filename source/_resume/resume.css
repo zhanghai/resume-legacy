@@ -16,7 +16,7 @@
 
 body {
   font-family: "WenQuanYi Micro Hei", "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "Open Sans", "Hiragino Sans GB", "Source Han Sans CN", "Source Han Sans SC", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "Microsoft YaHei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;
-  color: #1D1313;
+  color: #13131D;
   padding: 0;
   margin: 0;
 }
@@ -25,7 +25,7 @@ body {
   margin: 0 auto;
   padding: 0 0 40px 0;
   background: #fff;
-  border: solid #d22042;
+  border: solid #0099cc;
   border-width: 2px 0 0 0;
   text-align: left;
 }
@@ -36,7 +36,7 @@ body {
 }
 
 blockquote a {
-  color: #1D1313;
+  color: #13131D;
   -webkit-transition: color 0.3s linear;
   -moz-transition: color 0.3s linear;
   -ms-transition: color 0.3s linear;
@@ -45,7 +45,7 @@ blockquote a {
 }
 
 blockquote a:hover {
-  color: #d22042;
+  color: #0099cc;
 }
 
 a {
@@ -53,7 +53,7 @@ a {
 }
 
 strong a {
-  color: #d22042;
+  color: #0099cc;
 }
 
 a[href$='.pdf'] {
