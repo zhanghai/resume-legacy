@@ -47,10 +47,10 @@
     另一个 Android 图案解锁库。
 
 **[SeekBarPreference](https://github.com/DreaminginCodeZH/SeekBarPreference)** (Android)
-    显示 SeekBar 对话框的 Preference 实现。
+    显示 SeekBar 对话框的 Preference，仿照 EditTextPreference 实现。
 
 **[xkeymacs](https://github.com/DreaminginCodeZH/xkeymacs)** (C)
-    基于 X11 的 Emacs 风格键盘宏实现。
+    基于 X11 的 Emacs 风格键盘宏实现，对组合键的变换有良好的处理。
 
 **[zju-net-utils](https://github.com/DreaminginCodeZH/zju-net-utils)** (Shell)
     另一个浙江大学无线网络和 VPN 脚本。
