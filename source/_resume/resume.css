@@ -11,12 +11,12 @@
 
 /* For IE 6/7 (trigger hasLayout) */
 .container {
-  zoom: 1;
+    zoom: 1;
 }
 
 body {
   font-family: "WenQuanYi Micro Hei", "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "Open Sans", "Hiragino Sans GB", "Source Han Sans CN", "Source Han Sans SC", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "Microsoft YaHei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;
-  color: #13131D;
+  color: #13131d;
   padding: 0;
   margin: 0;
 }
@@ -36,7 +36,7 @@ body {
 }
 
 blockquote a {
-  color: #13131D;
+  color: #13131d;
   -webkit-transition: color 0.3s linear;
   -moz-transition: color 0.3s linear;
   -ms-transition: color 0.3s linear;
@@ -58,7 +58,7 @@ strong a {
 
 a[href$='.pdf'] {
   display: inline-block;
-  background: #1D1313;
+  background: #1d1313;
   color: white;
   padding: 6px 12px;
   margin-bottom: 6px;
