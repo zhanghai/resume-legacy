@@ -1,6 +1,8 @@
 #!/bin/bash
 rm -f node_modules/markdown-resume/assets/css/*
 cp source/_resume/resume.css node_modules/markdown-resume/assets/css/
+# For icon
+cp source/_resume/template.html node_modules/markdown-resume/assets/templates/default.html
 node node_modules/markdown-resume/bin/md2resume source/_resume/resume.md
 # Ugly
 #node node_modules/markdown-resume/bin/md2resume --pdf resume.md

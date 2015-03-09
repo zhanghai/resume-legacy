@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+{{#reload}}
+<meta http-equiv="refresh" content="2">
+{{/reload}}
+<link rel="icon" href="/favicon.png">
+<title>{{title}}</title>
+<style type="text/css">
+{{{style}}}
+</style>
+{{#nopdf}}
+  <style>
+    a[href$='.pdf'] {
+      display: none;
+    }
+  </style>
+{{/nopdf}}
+</head>
+<body class="">
+<div class="container">
+    <div class="resume">
+        {{{resume}}}
+    </div>
+</div>
+</body>
+</html>
