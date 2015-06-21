@@ -43,6 +43,9 @@
 **[求是潮手机站 V3](https://play.google.com/store/apps/details?id=com.myqsc.mobile3)** (Android)
     符合 Android 设计规范，面向浙江大学学生的教务和校园应用。日活跃用户超过 5000 人。
 
+**[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android)
+    符合 Material 设计规范的 ProgressBar，兼容 Android 4.0。
+
 **[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android)
     另一个 Android 图案解锁库。
 
