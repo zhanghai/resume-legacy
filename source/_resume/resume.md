@@ -44,7 +44,10 @@
     符合 Android 设计规范，面向浙江大学学生的教务和校园应用。日活跃用户超过 5000 人。
 
 **[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android)
-    符合 Material 设计规范的 ProgressBar，兼容 Android 4.0。
+    符合 Material Design 规范的 ProgressBar，兼容 Android 4.0。超过 400 Star。
+
+**[MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android)
+    生成符合 Material Design 规范的应用启动界面预览，以提升应用启动体验。超过 600 Star。
 
 **[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android)
     另一个 Android 图案解锁库。
