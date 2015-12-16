@@ -49,6 +49,9 @@
 **[MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android)
     生成符合 Material Design 规范的应用启动界面预览，以提升应用启动体验。超过 700 Star。
 
+**[CustomTabsHelper](https://github.com/DreaminginCodeZH/CustomTabsHelper)** (Android)
+    打包 Google 开源的 CustomTabs 支持类，并提供更加方便的整合方式。超过 200 Star。
+
 **[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android)
     另一个 Android 图案解锁库。
 
