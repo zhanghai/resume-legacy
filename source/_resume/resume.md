@@ -52,6 +52,9 @@
 **[CustomTabsHelper](https://github.com/DreaminginCodeZH/CustomTabsHelper)** (Android)
     打包 Google 开源的 CustomTabs 支持类，并提供更加方便的整合方式。超过 200 Star。
 
+**[MaterialEditText](https://github.com/DreaminginCodeZH/MaterialEditText)** (Android)
+    实现 Material Design 规范动画效果的 EditText，兼容 Android 4.0。
+
 **[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android)
     另一个 Android 图案解锁库。
 
