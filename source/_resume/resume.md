@@ -36,21 +36,24 @@
 **浙江大学求是潮技术研发中心** *Android 开发者* 2013 ~ 2015
     负责求是潮手机站（校内教务应用） V3 的 Android 应用设计及开发。
 
+**阿里巴巴集团** *无线开发事业部实习生* 2015.7 ~ 2015.9
+    参与终端架构组内部框架 Android 开发。
+
 ------
 
 ### 项目
 
-**[求是潮手机站 V3](https://play.google.com/store/apps/details?id=com.myqsc.mobile3)** (Android)
-    符合 Android 设计规范，面向浙江大学学生的教务和校园应用。日活跃用户超过 5000 人。
+**[求是潮手机站 V3](https://play.google.com/store/apps/details?id=com.myqsc.mobile3)** (Android) (5000+ 日活跃用户)
+    符合 Android 设计规范，面向浙江大学学生的教务和校园应用。
 
-**[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android)
-    符合 Material Design 规范的 ProgressBar，兼容 Android 4.0。超过 400 Star。
+**[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (400+ Stars)
+    符合 Material Design 规范的 ProgressBar，兼容 Android 4.0。
 
-**[MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android)
-    生成符合 Material Design 规范的应用启动界面预览，以提升应用启动体验。超过 700 Star。
+**[MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (700+ Stars)
+    生成符合 Material Design 规范的应用启动界面预览，以提升应用启动体验。
 
-**[CustomTabsHelper](https://github.com/DreaminginCodeZH/CustomTabsHelper)** (Android)
-    打包 Google 开源的 CustomTabs 支持类，并提供更加方便的整合方式。超过 200 Star。
+**[CustomTabsHelper](https://github.com/DreaminginCodeZH/CustomTabsHelper)** (Android) (200+ Stars)
+    打包 Google 开源的 CustomTabs 支持类，并提供更加方便的整合方式。
 
 **[MaterialEditText](https://github.com/DreaminginCodeZH/MaterialEditText)** (Android)
     实现 Material Design 规范动画效果的 EditText，兼容 Android 4.0。
@@ -60,6 +63,12 @@
 
 **[SeekBarPreference](https://github.com/DreaminginCodeZH/SeekBarPreference)** (Android)
     显示 SeekBar 对话框的 Preference，仿照 EditTextPreference 实现。
+
+**[zhsh](https://github.com/DreaminginCodeZH/zhsh)** (C)
+    极简的交互式 Shell 实现，使用 FLEX 和 LEMON 进行语法分析。
+
+**[KiScript](https://github.com/DreaminginCodeZH/kiscript)** (C)
+    参照 EcmaScript 5.0 标准的脚本解释器，目前完成了递归下降文法解析。
 
 **[xkeymacs](https://github.com/DreaminginCodeZH/xkeymacs)** (C)
     基于 X11 的 Emacs 风格键盘宏实现，对组合键的变换有良好的处理。
