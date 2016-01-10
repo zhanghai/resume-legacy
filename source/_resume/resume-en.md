@@ -55,11 +55,11 @@
 **[CustomTabsHelper](https://github.com/DreaminginCodeZH/CustomTabsHelper)** (Android) (200+ Stars)
     Packaging for GoogleChrome/custom-tabs-client with an additional Fragment for easier usage.
 
+**[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android) (200+ Stars)
+    Yet another Android library for pattern lock.
+
 **[MaterialEditText](https://github.com/DreaminginCodeZH/MaterialEditText)** (Android)
     Material Design EditText with a delightful linear ripple in background, compatible with Android 4.0+.
-
-**[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android)
-    Yet another Android library for pattern lock.
 
 **[SeekBarPreference](https://github.com/DreaminginCodeZH/SeekBarPreference)** (Android)
     A Preference that shows a dialog with a SeekBar widget.

@@ -55,11 +55,11 @@
 **[CustomTabsHelper](https://github.com/DreaminginCodeZH/CustomTabsHelper)** (Android) (200+ Stars)
     打包 Google 开源的 CustomTabs 支持类，并提供更加方便的整合方式。
 
+**[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android) (200+ Stars)
+    另一个 Android 图案解锁库。
+
 **[MaterialEditText](https://github.com/DreaminginCodeZH/MaterialEditText)** (Android)
     实现 Material Design 规范动画效果的 EditText，兼容 Android 4.0。
-
-**[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android)
-    另一个 Android 图案解锁库。
 
 **[SeekBarPreference](https://github.com/DreaminginCodeZH/SeekBarPreference)** (Android)
     显示 SeekBar 对话框的 Preference，仿照 EditTextPreference 实现。
