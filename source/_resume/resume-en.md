@@ -46,7 +46,7 @@
 **[QSCMobile V3](https://play.google.com/store/apps/details?id=com.myqsc.mobile3)** (Android) (5000+ DAU)
     A campus app for Zhejiang University conforming to Android Design.
 
-**[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (400+ Stars)
+**[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (500+ Stars)
     Material Design ProgressBar with consistent appearance on Android 4.0+.
 
 **[MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (700+ Stars)
