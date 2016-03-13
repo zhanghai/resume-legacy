@@ -49,7 +49,7 @@
 **[Douya](https://github.com/DreaminginCodeZH/Douya)** (Android) (1200+ Stars)
     An open source Material Design app for douban.com.
 
-**[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (500+ Stars)
+**[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (600+ Stars)
     Material Design ProgressBar with consistent appearance on Android 4.0+.
 
 **[MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (800+ Stars)

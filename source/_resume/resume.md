@@ -49,7 +49,7 @@
 **[豆芽](https://github.com/DreaminginCodeZH/Douya)** (Android) (1200+ Stars)
     开源的 Material Design 豆瓣客户端。
 
-**[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (500+ Stars)
+**[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (600+ Stars)
     符合 Material Design 规范的 ProgressBar，兼容 Android 4.0。
 
 **[MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (800+ Stars)
