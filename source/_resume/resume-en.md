@@ -33,7 +33,7 @@
 
 ### Experience
 
-**Android Developer, Zhejiang University QiuShiChao Website** 2013 ~ 2015
+**Android Developer, Zhejiang University QiuShiChao Website** 2013 ~ 2016
     Designer and developer of QSCMobile V3 (Android).
 
 **Android Developer Intern, Taobao (Alibaba Group)** 2015.7 ~ 2015.9
