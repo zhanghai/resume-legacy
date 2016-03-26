@@ -46,7 +46,7 @@
 **[求是潮手机站 V3](https://play.google.com/store/apps/details?id=com.myqsc.mobile3)** (Android) (5000+ 日活跃用户)
     符合 Android 设计规范，面向浙江大学学生的教务和校园应用。
 
-**[豆芽](https://github.com/DreaminginCodeZH/Douya)** (Android) (1400+ Stars)
+**[豆芽](https://github.com/DreaminginCodeZH/Douya)** (Android) (1500+ Stars)
     开源的 Material Design 豆瓣客户端。
 
 **[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (600+ Stars)
