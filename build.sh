@@ -1,4 +1,7 @@
 #!/bin/bash
+
+set -e
+
 rm -f node_modules/markdown-resume/assets/css/*
 cp source/_resume/resume.css node_modules/markdown-resume/assets/css/
 # For icon
