@@ -46,20 +46,20 @@
 **[求是潮手机站 V3](https://play.google.com/store/apps/details?id=com.myqsc.mobile3)** (Android) (5000+ 日活跃用户)
     符合 Android 设计规范，面向浙江大学学生的教务和校园应用。
 
-**[豆芽](https://github.com/DreaminginCodeZH/Douya)** (Android) (1800+ Stars)
+**[豆芽](https://github.com/DreaminginCodeZH/Douya)** (Android) (2000+ Stars)
     开源的 Material Design 豆瓣客户端。
 
 **[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (700+ Stars)
     符合 Material Design 规范的 ProgressBar，兼容 Android 4.0。
 
-**[MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialColdStart)** (Android) (900+ Stars)
+**[MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialColdStart)** (Android) (1000+ Stars)
     生成符合 Material Design 规范的应用启动界面预览，以提升应用启动体验。
+
+**[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android) (300+ Stars)
+    另一个 Android 图案解锁库。
 
 **[CustomTabsHelper](https://github.com/DreaminginCodeZH/CustomTabsHelper)** (Android) (200+ Stars)
     打包 Google 开源的 CustomTabs 支持类，并提供更加方便的整合方式。
-
-**[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android) (200+ Stars)
-    另一个 Android 图案解锁库。
 
 **[MaterialEditText](https://github.com/DreaminginCodeZH/MaterialEditText)** (Android)
     实现 Material Design 规范动画效果的 EditText，兼容 Android 4.0。
