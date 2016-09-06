@@ -49,7 +49,7 @@
 **[QSCMobile V3](https://play.google.com/store/apps/details?id=com.myqsc.mobile3)** (Android) (5000+ DAU)
     A campus app for Zhejiang University conforming to Android Design.
 
-**[Douya](https://github.com/DreaminginCodeZH/Douya)** (Android) (2000+ Stars)
+**[Douya](https://github.com/DreaminginCodeZH/Douya)** (Android) (2100+ Stars)
     An open source Material Design app for douban.com.
 
 **[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (800+ Stars)
