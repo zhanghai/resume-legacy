@@ -49,7 +49,7 @@
 **[求是潮手机站 V3](https://play.google.com/store/apps/details?id=com.myqsc.mobile3)** (Android) (5000+ 日活跃用户)
     符合 Android 设计规范，面向浙江大学学生的教务和校园应用。
 
-**[豆芽](https://github.com/DreaminginCodeZH/Douya)** (Android) (2100+ Stars)
+**[豆芽](https://github.com/DreaminginCodeZH/Douya)** (Android) (2200+ Stars)
     开源的 Material Design 豆瓣客户端。
 
 **[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (900+ Stars)
@@ -60,6 +60,9 @@
 
 **[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android) (300+ Stars)
     另一个 Android 图案解锁库。
+
+**[MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)** (Android) (200+ Stars)
+    符合 Material Design 规范且实现更佳的 RatingBar，兼容 Android 3.0。
 
 **[CustomTabsHelper](https://github.com/DreaminginCodeZH/CustomTabsHelper)** (Android) (200+ Stars)
     打包 Google 开源的 CustomTabs 支持类，并提供更加方便的整合方式。
