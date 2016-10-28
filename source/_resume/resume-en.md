@@ -61,10 +61,10 @@
 **[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android) (300+ Stars)
     Yet another Android library for pattern lock.
 
-**[MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)** (Android) (200+ Stars)
+**[MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)** (Android) (300+ Stars)
     Material Design RatingBar with better appearance on Android 3.0+.
 
-**[CustomTabsHelper](https://github.com/DreaminginCodeZH/CustomTabsHelper)** (Android) (200+ Stars)
+**[CustomTabsHelper](https://github.com/DreaminginCodeZH/CustomTabsHelper)** (Android) (300+ Stars)
     Packaging for GoogleChrome/custom-tabs-client with an additional Fragment for easier usage.
 
 **[MaterialEditText](https://github.com/DreaminginCodeZH/MaterialEditText)** (Android)

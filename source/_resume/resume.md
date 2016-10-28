@@ -61,10 +61,10 @@
 **[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android) (300+ Stars)
     另一个 Android 图案解锁库。
 
-**[MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)** (Android) (200+ Stars)
+**[MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)** (Android) (300+ Stars)
     符合 Material Design 规范且实现更佳的 RatingBar，兼容 Android 3.0。
 
-**[CustomTabsHelper](https://github.com/DreaminginCodeZH/CustomTabsHelper)** (Android) (200+ Stars)
+**[CustomTabsHelper](https://github.com/DreaminginCodeZH/CustomTabsHelper)** (Android) (300+ Stars)
     打包 Google 开源的 CustomTabs 支持类，并提供更加方便的整合方式。
 
 **[MaterialEditText](https://github.com/DreaminginCodeZH/MaterialEditText)** (Android)
