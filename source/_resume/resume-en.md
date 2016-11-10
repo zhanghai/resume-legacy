@@ -58,7 +58,7 @@
 **[MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialColdStart)** (Android) (1100+ Stars)
     Utilize the window background during cold start time to make apps look faster.
 
-**[MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)** (Android) (400+ Stars)
+**[MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)** (Android) (500+ Stars)
     Material Design RatingBar with better appearance on Android 3.0+.
 
 **[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android) (300+ Stars)
