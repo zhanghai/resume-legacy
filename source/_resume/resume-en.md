@@ -39,7 +39,7 @@
 **Android Developer Intern, Taobao (Alibaba Group)** 2015.7 ~ 2015.9
     Internal framework for Android apps at mobile infrastructure group.
 
-**Android Developer Intern, Douban** 2016.7 ~ 2016.8
+**Android Developer Intern, Douban** 2016.7 ~ 2016.9
     Development of the Android app for douban.com.
 
 ------
