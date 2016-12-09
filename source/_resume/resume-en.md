@@ -34,13 +34,13 @@
 ### Experience
 
 **Android Developer, Zhejiang University QiuShiChao Website** 2013 ~ 2016
-    Designer and developer of QSCMobile V3 (Android).
+    Designed and developed QSCMobile V3 (Android).
 
-**Android Developer Intern, Taobao (Alibaba Group)** 2015.7 ~ 2015.9
-    Internal framework for Android apps at mobile infrastructure group.
+**Android Developer Intern, Taobao, Inc. (Alibaba Group)** 2015.7 ~ 2015.9
+    Developed internal framework for Android apps at mobile infrastructure group.
 
-**Android Developer Intern, Douban** 2016.7 ~ 2016.9
-    Development of the Android app for douban.com.
+**Android Developer Intern, Douban, Inc.** 2016.7 ~ 2016.9
+    Developed the main Android app for douban.com.
 
 ------
 
