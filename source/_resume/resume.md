@@ -58,7 +58,7 @@
 **[MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialColdStart)** (Android) (1100+ Stars)
     生成符合 Material Design 规范的应用启动界面预览，以提升应用启动体验。
 
-**[MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)** (Android) (500+ Stars)
+**[MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)** (Android) (600+ Stars)
     符合 Material Design 规范且实现更佳的 RatingBar，兼容 Android 3.0。
 
 **[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android) (400+ Stars)
