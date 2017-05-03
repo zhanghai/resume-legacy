@@ -49,7 +49,7 @@
 **[QSCMobile V3](https://play.google.com/store/apps/details?id=com.myqsc.mobile3)** (Android) (5000+ DAU)
     A campus app for Zhejiang University conforming to Android Design.
 
-**[Douya](https://github.com/DreaminginCodeZH/Douya)** (Android) (2700+ Stars)
+**[Douya](https://github.com/DreaminginCodeZH/Douya)** (Android) (2800+ Stars)
     An open source Material Design app for douban.com.
 
 **[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (1100+ Stars)
@@ -67,7 +67,7 @@
 **[CustomTabsHelper](https://github.com/DreaminginCodeZH/CustomTabsHelper)** (Android) (300+ Stars)
     Packaging for GoogleChrome/custom-tabs-client with an additional Fragment for easier usage.
 
-**[MaterialEditText](https://github.com/DreaminginCodeZH/MaterialEditText)** (Android)
+**[MaterialEditText](https://github.com/DreaminginCodeZH/MaterialEditText)** (Android) (100+ Stars)
     Material Design EditText with a delightful linear ripple in background, compatible with Android 4.0+.
 
 **[SeekBarPreference](https://github.com/DreaminginCodeZH/SeekBarPreference)** (Android)
