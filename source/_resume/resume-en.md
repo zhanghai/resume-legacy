@@ -49,19 +49,19 @@
 **[QSCMobile V3](https://play.google.com/store/apps/details?id=com.myqsc.mobile3)** (Android) (5000+ DAU)
     A campus app for Zhejiang University conforming to Android Design.
 
-**[Douya](https://github.com/DreaminginCodeZH/Douya)** (Android) (2800+ Stars)
+**[Douya](https://github.com/DreaminginCodeZH/Douya)** (Android) (2900+ Stars)
     An open source Material Design app for douban.com.
 
-**[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (1100+ Stars)
+**[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (1200+ Stars)
     Material Design ProgressBar with consistent appearance on Android 4.0+.
 
 **[MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialColdStart)** (Android) (1100+ Stars)
     Utilize the window background during cold start time to make apps look faster.
 
-**[MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)** (Android) (700+ Stars)
+**[MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)** (Android) (800+ Stars)
     Material Design RatingBar with better appearance on Android 3.0+.
 
-**[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android) (400+ Stars)
+**[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android) (500+ Stars)
     Yet another Android library for pattern lock.
 
 **[CustomTabsHelper](https://github.com/DreaminginCodeZH/CustomTabsHelper)** (Android) (300+ Stars)
