@@ -1,6 +1,6 @@
 # 张海
 
-## Android 开发者
+## Android & Web 开发者
 
 > [blog.zhanghai.me](http://blog.zhanghai.me)
 > [github.com/DreaminginCodeZH](https://github.com/DreaminginCodeZH)
@@ -82,8 +82,11 @@
 **[SeekBarPreference](https://github.com/DreaminginCodeZH/SeekBarPreference)** (Android)
     显示 SeekBar 对话框的 Preference，仿照 EditTextPreference 实现。
 
-**[web-c](http://web-c.zhanghai.me/)** (JavaScript)
+**[web-c](http://web-c.zhanghai.me/)** (Web)
     本科毕业设计，使用 JavaScript 在前端实现的 C 语言解释器和开发环境，支持 C11 标准中大部分语法。
+
+**[join-screenshots](http://join-screenshots.zhanghai.me/)** (Web)
+    拼接电影字幕截图的在线工具，参照 Material Design 设计规范使用 Vue.js 实现。
 
 **[zhsh](https://github.com/DreaminginCodeZH/zhsh)** (C)
     极简的交互式 Shell 实现，使用 FLEX 和 LEMON 进行语法分析。
