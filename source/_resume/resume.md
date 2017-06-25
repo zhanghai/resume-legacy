@@ -14,13 +14,19 @@
 
 2. Android
 
-3. C/C++
+3. JavaScript
 
-4. GNU/Linux
+4. C/C++
 
-5. Shell
+5. Python
 
-6. Git
+6. GNU/Linux
+
+7. Shell
+
+8. Git
+
+9. Emacs
 
 ------
 
@@ -49,6 +55,9 @@
 **[求是潮手机站 V3](https://play.google.com/store/apps/details?id=com.myqsc.mobile3)** (Android) (5000+ 日活跃用户)
     符合 Android 设计规范，面向浙江大学学生的教务和校园应用。
 
+**[android-sdk (AUR)](https://aur.archlinux.org/packages/android-sdk/)** (Linux) (1400+ 得票)
+    Arch Linux 上 Android SDK Tools 等 10 个软件包的维护者。
+
 **[豆芽](https://github.com/DreaminginCodeZH/Douya)** (Android) (2900+ Stars)
     开源的 Material Design 豆瓣客户端。
 
@@ -73,11 +82,11 @@
 **[SeekBarPreference](https://github.com/DreaminginCodeZH/SeekBarPreference)** (Android)
     显示 SeekBar 对话框的 Preference，仿照 EditTextPreference 实现。
 
+**[web-c](http://web-c.zhanghai.me/)** (JavaScript)
+    本科毕业设计，使用 JavaScript 在前端实现的 C 语言解释器和开发环境，支持 C11 标准中大部分语法。
+
 **[zhsh](https://github.com/DreaminginCodeZH/zhsh)** (C)
     极简的交互式 Shell 实现，使用 FLEX 和 LEMON 进行语法分析。
-
-**[KiScript](https://github.com/DreaminginCodeZH/kiscript)** (C)
-    参照 EcmaScript 5.0 标准的脚本解释器，目前完成了递归下降文法解析。
 
 **[xkeymacs](https://github.com/DreaminginCodeZH/xkeymacs)** (C)
     基于 X11 的 Emacs 风格键盘宏实现，对组合键的变换有良好的处理。

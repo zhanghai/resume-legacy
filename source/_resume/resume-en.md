@@ -14,13 +14,19 @@
 
 2. Android
 
-3. C/C++
+3. JavaScript
 
-4. GNU/Linux
+4. C/C++
 
-5. Shell
+5. Python
 
-6. Git
+6. GNU/Linux
+
+7. Shell
+
+8. Git
+
+9. Emacs
 
 ------
 
@@ -49,6 +55,9 @@
 **[QSCMobile V3](https://play.google.com/store/apps/details?id=com.myqsc.mobile3)** (Android) (5000+ DAU)
     A campus app for Zhejiang University conforming to Android Design.
 
+**[android-sdk (AUR)](https://aur.archlinux.org/packages/android-sdk/)** (Linux) (1400+ Votes)
+    Maintainer of 10 packages including Android SDK Tools on Arch Linux.
+
 **[Douya](https://github.com/DreaminginCodeZH/Douya)** (Android) (2900+ Stars)
     An open source Material Design app for douban.com.
 
@@ -73,11 +82,11 @@
 **[SeekBarPreference](https://github.com/DreaminginCodeZH/SeekBarPreference)** (Android)
     A Preference that shows a dialog with a SeekBar widget.
 
+**[web-c](http://web-c.zhanghai.me/)** (JavaScript)
+    Bachelor's degree project, a C interpreter and IDE implemented in front-end with JavaScript, supporting most of the C11 standard.
+
 **[zhsh](https://github.com/DreaminginCodeZH/zhsh)** (C)
     A minimal interactive shell written in C, with FLEX and LEMON.
-
-**[KiScript](https://github.com/DreaminginCodeZH/kiscript)** (C)
-    Interpreter for a scripting language similar to EcmaScript 5.0 specification, currently recursive descent parsing is implemented.
 
 **[xkeymacs](https://github.com/DreaminginCodeZH/xkeymacs)** (C)
     Emacs-style keyboard macro implementation based on X11, with consideration for combo keys.
