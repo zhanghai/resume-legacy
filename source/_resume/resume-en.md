@@ -20,13 +20,13 @@
 
 5. Python
 
-6. GNU/Linux
+6. OpenGL
 
-7. Shell
+7. GNU/Linux
 
-8. Git
+8. Shell
 
-9. Emacs
+9. Git
 
 ------
 
@@ -86,7 +86,13 @@
     Bachelor's degree project, a C interpreter and IDE implemented in front-end with JavaScript, supporting most of the C11 standard.
 
 **[join-screenshots](http://join-screenshots.zhanghai.me/)** (Web)
-    Online tool to join screenshots with subtitles together, designed with Material Design and implemented with Vue.js.
+    An online tool to join screenshots with subtitles together, designed with Material Design and implemented with Vue.js.
+
+**[Labyrinth](https://github.com/DreaminginCodeZH/Labyrinth)** (Java, OpenGL)
+    A labyrinth game implemented with LWJGL's OpenGL ES binding, responsible for the physics engine and game scene rendering in the team.
+
+**[opengl-c-solarsystem](https://github.com/DreaminginCodeZH/opengl-c-solarsystem)** (C, OpenGL)
+    An animated solar system model implemented with OpenGL.
 
 **[zhsh](https://github.com/DreaminginCodeZH/zhsh)** (C)
     A minimal interactive shell written in C, with FLEX and LEMON.

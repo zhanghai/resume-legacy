@@ -20,13 +20,13 @@
 
 5. Python
 
-6. GNU/Linux
+6. OpenGL
 
-7. Shell
+7. GNU/Linux
 
-8. Git
+8. Shell
 
-9. Emacs
+9. Git
 
 ------
 
@@ -87,6 +87,12 @@
 
 **[join-screenshots](http://join-screenshots.zhanghai.me/)** (Web)
     拼接电影字幕截图的在线工具，参照 Material Design 设计规范使用 Vue.js 实现。
+
+**[Labyrinth](https://github.com/DreaminginCodeZH/Labyrinth)** (Java, OpenGL)
+    使用 LWJGL 的 OpenGL ES 绑定实现的迷宫游戏，在团队中负责物理引擎和主场景渲染。
+
+**[opengl-c-solarsystem](https://github.com/DreaminginCodeZH/opengl-c-solarsystem)** (C, OpenGL)
+    使用 OpenGL 实现的动态太阳系模型。
 
 **[zhsh](https://github.com/DreaminginCodeZH/zhsh)** (C)
     极简的交互式 Shell 实现，使用 FLEX 和 LEMON 进行语法分析。
