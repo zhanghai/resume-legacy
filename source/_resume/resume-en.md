@@ -58,7 +58,7 @@
 **[android-sdk (AUR)](https://aur.archlinux.org/packages/android-sdk/)** (Linux) (1400+ Votes)
     Maintainer of 10 packages including Android SDK Tools on Arch Linux.
 
-**[Douya](https://github.com/DreaminginCodeZH/Douya)** (Android) (2900+ Stars)
+**[Douya](https://github.com/DreaminginCodeZH/Douya)** (Android) (3000+ Stars)
     An open source Material Design app for douban.com.
 
 **[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (1200+ Stars)

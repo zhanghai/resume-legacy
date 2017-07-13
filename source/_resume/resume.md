@@ -58,7 +58,7 @@
 **[android-sdk (AUR)](https://aur.archlinux.org/packages/android-sdk/)** (Linux) (1400+ 得票)
     Arch Linux 上 Android SDK Tools 等 10 个软件包的维护者。
 
-**[豆芽](https://github.com/DreaminginCodeZH/Douya)** (Android) (2900+ Stars)
+**[豆芽](https://github.com/DreaminginCodeZH/Douya)** (Android) (3000+ Stars)
     开源的 Material Design 豆瓣客户端。
 
 **[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (1200+ Stars)
