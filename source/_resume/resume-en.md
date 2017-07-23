@@ -64,7 +64,7 @@
 **[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (1200+ Stars)
     Material Design ProgressBar with consistent appearance on Android 4.0+.
 
-**[MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialColdStart)** (Android) (1100+ Stars)
+**[MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialColdStart)** (Android) (1200+ Stars)
     Utilize the window background during cold start time to make apps look faster.
 
 **[MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)** (Android) (800+ Stars)

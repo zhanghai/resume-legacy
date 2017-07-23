@@ -64,7 +64,7 @@
 **[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (1200+ Stars)
     符合 Material Design 规范的 ProgressBar，兼容 Android 4.0。
 
-**[MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialColdStart)** (Android) (1100+ Stars)
+**[MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialColdStart)** (Android) (1200+ Stars)
     生成符合 Material Design 规范的应用启动界面预览，以提升应用启动体验。
 
 **[MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)** (Android) (800+ Stars)
