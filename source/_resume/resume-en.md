@@ -32,14 +32,17 @@
 
 ### Education
 
-**Computer Science and Technology** 2013 ~ 2017
+**Bachelor of Engineering in Computer Science and Technology** 2013.9 ~ 2017.7
     Zhejiang University
+
+**Master of Engineering in EECS** 2017.8 ~ 2018.6
+    University of California, Berkeley
 
 ------
 
 ### Experience
 
-**Android Developer, Zhejiang University QiuShiChao Website** 2013 ~ 2016
+**Android Developer, Zhejiang University QiuShiChao Website** 2013.9 ~ 2016.7
     Designed and developed QSCMobile V3 (Android).
 
 **Android Developer Intern, Taobao, Inc. (Alibaba Group)** 2015.7 ~ 2015.9
