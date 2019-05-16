@@ -3,7 +3,7 @@
 ## Android & Web 开发者
 
 > [blog.zhanghai.me](http://blog.zhanghai.me)
-> [github.com/DreaminginCodeZH](https://github.com/DreaminginCodeZH)
+> [github.com/zhanghai](https://github.com/zhanghai)
 > [dreaming.in.code.zh@gmail.com](mailto:dreaming.in.code.zh@gmail.com)
 
 ------
@@ -61,28 +61,28 @@
 **[android-sdk (AUR)](https://aur.archlinux.org/packages/android-sdk/)** (Linux) (1400+ 得票)
     Arch Linux 上 Android SDK Tools 等 10 个软件包的维护者。
 
-**[豆芽](https://github.com/DreaminginCodeZH/Douya)** (Android) (3000+ Stars)
+**[豆芽](https://github.com/zhanghai/Douya)** (Android) (3000+ Stars)
     开源的 Material Design 豆瓣客户端。
 
-**[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (1200+ Stars)
+**[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)** (Android) (1200+ Stars)
     符合 Material Design 规范的 ProgressBar，兼容 Android 4.0。
 
-**[MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialColdStart)** (Android) (1200+ Stars)
+**[MaterialColdStart](https://github.com/zhanghai/MaterialColdStart)** (Android) (1200+ Stars)
     生成符合 Material Design 规范的应用启动界面预览，以提升应用启动体验。
 
-**[MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)** (Android) (900+ Stars)
+**[MaterialRatingBar](https://github.com/zhanghai/MaterialRatingBar)** (Android) (900+ Stars)
     符合 Material Design 规范且实现更佳的 RatingBar，兼容 Android 3.0。
 
-**[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android) (500+ Stars)
+**[PatternLock](https://github.com/zhanghai/PatternLock)** (Android) (500+ Stars)
     另一个 Android 图案解锁库。
 
-**[CustomTabsHelper](https://github.com/DreaminginCodeZH/CustomTabsHelper)** (Android) (300+ Stars)
+**[CustomTabsHelper](https://github.com/zhanghai/CustomTabsHelper)** (Android) (300+ Stars)
     打包 Google 开源的 CustomTabs 支持类，并提供更加方便的整合方式。
 
-**[MaterialEditText](https://github.com/DreaminginCodeZH/MaterialEditText)** (Android) (100+ Stars)
+**[MaterialEditText](https://github.com/zhanghai/MaterialEditText)** (Android) (100+ Stars)
     实现 Material Design 规范动画效果的 EditText，兼容 Android 4.0。
 
-**[SeekBarPreference](https://github.com/DreaminginCodeZH/SeekBarPreference)** (Android)
+**[SeekBarPreference](https://github.com/zhanghai/SeekBarPreference)** (Android)
     显示 SeekBar 对话框的 Preference，仿照 EditTextPreference 实现。
 
 **[web-c](http://web-c.zhanghai.me/)** (Web)
@@ -91,22 +91,22 @@
 **[join-screenshots](http://join-screenshots.zhanghai.me/)** (Web)
     拼接电影字幕截图的在线工具，参照 Material Design 设计规范使用 Vue.js 实现。
 
-**[Labyrinth](https://github.com/DreaminginCodeZH/Labyrinth)** (Java, OpenGL)
+**[Labyrinth](https://github.com/zhanghai/Labyrinth)** (Java, OpenGL)
     使用 LWJGL 的 OpenGL ES 绑定实现的迷宫游戏，在团队中负责物理引擎和主场景渲染。
 
-**[opengl-c-solarsystem](https://github.com/DreaminginCodeZH/opengl-c-solarsystem)** (C, OpenGL)
+**[opengl-c-solarsystem](https://github.com/zhanghai/opengl-c-solarsystem)** (C, OpenGL)
     使用 OpenGL 实现的动态太阳系模型。
 
-**[zhsh](https://github.com/DreaminginCodeZH/zhsh)** (C)
+**[zhsh](https://github.com/zhanghai/zhsh)** (C)
     极简的交互式 Shell 实现，使用 FLEX 和 LEMON 进行语法分析。
 
-**[xkeymacs](https://github.com/DreaminginCodeZH/xkeymacs)** (C)
+**[xkeymacs](https://github.com/zhanghai/xkeymacs)** (C)
     基于 X11 的 Emacs 风格键盘宏实现，对组合键的变换有良好的处理。
 
-**[zju-net-utils](https://github.com/DreaminginCodeZH/zju-net-utils)** (Shell)
+**[zju-net-utils](https://github.com/zhanghai/zju-net-utils)** (Shell)
     另一个浙江大学无线网络和 VPN 脚本。
 
-**[ZJUWLANAutoLogin](https://github.com/DreaminginCodeZH/ZJUWLANAutoLogin)** (JavaScript)
+**[ZJUWLANAutoLogin](https://github.com/zhanghai/ZJUWLANAutoLogin)** (JavaScript)
     简单的 Chrome 插件，当页面跳转至 ZJUWLAN 登录界面时自动模拟点击按钮。
 
 ------

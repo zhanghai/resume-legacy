@@ -3,7 +3,7 @@
 ## Android & Web Developer
 
 > [blog.zhanghai.me](http://blog.zhanghai.me)
-> [github.com/DreaminginCodeZH](https://github.com/DreaminginCodeZH)
+> [github.com/zhanghai](https://github.com/zhanghai)
 > [dreaming.in.code.zh@gmail.com](mailto:dreaming.in.code.zh@gmail.com)
 
 ------
@@ -61,28 +61,28 @@
 **[android-sdk (AUR)](https://aur.archlinux.org/packages/android-sdk/)** (Linux) (1400+ Votes)
     Maintainer of 10 packages including Android SDK Tools on Arch Linux.
 
-**[Douya](https://github.com/DreaminginCodeZH/Douya)** (Android) (3000+ Stars)
+**[Douya](https://github.com/zhanghai/Douya)** (Android) (3000+ Stars)
     An open source Material Design app for douban.com.
 
-**[MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)** (Android) (1200+ Stars)
+**[MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar)** (Android) (1200+ Stars)
     Material Design ProgressBar with consistent appearance on Android 4.0+.
 
-**[MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialColdStart)** (Android) (1200+ Stars)
+**[MaterialColdStart](https://github.com/zhanghai/MaterialColdStart)** (Android) (1200+ Stars)
     Utilize the window background during cold start time to make apps look faster.
 
-**[MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)** (Android) (900+ Stars)
+**[MaterialRatingBar](https://github.com/zhanghai/MaterialRatingBar)** (Android) (900+ Stars)
     Material Design RatingBar with better appearance on Android 3.0+.
 
-**[PatternLock](https://github.com/DreaminginCodeZH/PatternLock)** (Android) (500+ Stars)
+**[PatternLock](https://github.com/zhanghai/PatternLock)** (Android) (500+ Stars)
     Yet another Android library for pattern lock.
 
-**[CustomTabsHelper](https://github.com/DreaminginCodeZH/CustomTabsHelper)** (Android) (300+ Stars)
+**[CustomTabsHelper](https://github.com/zhanghai/CustomTabsHelper)** (Android) (300+ Stars)
     Packaging for GoogleChrome/custom-tabs-client with an additional Fragment for easier usage.
 
-**[MaterialEditText](https://github.com/DreaminginCodeZH/MaterialEditText)** (Android) (100+ Stars)
+**[MaterialEditText](https://github.com/zhanghai/MaterialEditText)** (Android) (100+ Stars)
     Material Design EditText with a delightful linear ripple in background, compatible with Android 4.0+.
 
-**[SeekBarPreference](https://github.com/DreaminginCodeZH/SeekBarPreference)** (Android)
+**[SeekBarPreference](https://github.com/zhanghai/SeekBarPreference)** (Android)
     A Preference that shows a dialog with a SeekBar widget.
 
 **[web-c](http://web-c.zhanghai.me/)** (Web)
@@ -91,22 +91,22 @@
 **[join-screenshots](http://join-screenshots.zhanghai.me/)** (Web)
     An online tool to join screenshots with subtitles together, designed with Material Design and implemented with Vue.js.
 
-**[Labyrinth](https://github.com/DreaminginCodeZH/Labyrinth)** (Java, OpenGL)
+**[Labyrinth](https://github.com/zhanghai/Labyrinth)** (Java, OpenGL)
     A labyrinth game implemented with LWJGL's OpenGL ES binding, responsible for the physics engine and game scene rendering in the team.
 
-**[opengl-c-solarsystem](https://github.com/DreaminginCodeZH/opengl-c-solarsystem)** (C, OpenGL)
+**[opengl-c-solarsystem](https://github.com/zhanghai/opengl-c-solarsystem)** (C, OpenGL)
     An animated solar system model implemented with OpenGL.
 
-**[zhsh](https://github.com/DreaminginCodeZH/zhsh)** (C)
+**[zhsh](https://github.com/zhanghai/zhsh)** (C)
     A minimal interactive shell written in C, with FLEX and LEMON.
 
-**[xkeymacs](https://github.com/DreaminginCodeZH/xkeymacs)** (C)
+**[xkeymacs](https://github.com/zhanghai/xkeymacs)** (C)
     Emacs-style keyboard macro implementation based on X11, with consideration for combo keys.
 
-**[zju-net-utils](https://github.com/DreaminginCodeZH/zju-net-utils)** (Shell)
+**[zju-net-utils](https://github.com/zhanghai/zju-net-utils)** (Shell)
     Yet another collection of wireless and VPN scripts for Zhejiang University.
 
-**[ZJUWLANAutoLogin](https://github.com/DreaminginCodeZH/ZJUWLANAutoLogin)** (JavaScript)
+**[ZJUWLANAutoLogin](https://github.com/zhanghai/ZJUWLANAutoLogin)** (JavaScript)
     Simple Chrome extension for automatic login with captive portal in Zhejiang University.
 
 ------
